@@ -1,3 +1,8 @@
+/*
+   Author: Insane hong
+   License: BSD
+*/
+
 function compress(str) {
   var repeat = 1;
   var result = str.charAt(0);
